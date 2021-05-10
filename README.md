@@ -25,20 +25,20 @@ Members of the Working Group are engaged in development of protocols and systems
 
 Current Work Items:
 
-| Name | Type | Lead(s) | Link(s) |
-| ----------- | -------------- | ---------------- | ----------------------- |
-| Universal Resolver | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-resolver<br> https://github.com/decentralized-identity/universal-resolver-frontend<br> (various drivers) |
-| Universal Registrar | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend<br> (various drivers) |
-| did-common-java | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-common-java |
-| did-common-dotnet | Code | [@juanfranblanco](https://github.com/juanfranblanco), [@veikkoeeva](https://github.com/veikkoeeva) | https://github.com/decentralized-identity/did-common-dotnet |
-| did:peer Method | Specs | [@dhh1128](https://github.com/dhh1128) | https://github.com/decentralized-identity/peer-did-method-spec |
-| .well-known DID Configuration | Specs | [@csuwildcat](https://github.com/csuwildcat), [@OR13](https://github.com/OR13) | https://github.com/decentralized-identity/.well-known |
-| Secret Recovery Methods (Fuzzy Encryption, Horcrux) | Documentation | [@TomCJones](https://github.com/TomCJones), [@csuwildcat](https://github.com/csuwildcat), [@johncallahan](https://github.com/johncallahan) | https://github.com/decentralized-identity/secret-recovery-methods<br> https://github.com/decentralized-identity/fuzzy-encryption<br> https://github.com/decentralized-identity/horcrux |
-| JavaScript DID Resolver | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-resolver<br> https://github.com/decentralized-identity/ethr-did-resolver<br> https://github.com/decentralized-identity/web-did-resolver |
-| JavaScript DID JWT | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-jwt<br> https://github.com/decentralized-identity/did-jwt-vc |
-| JSON-LD Document Loader | Code | [@OR13](https://github.com/OR13) | https://github.com/decentralized-identity/jsonld-document-loader |
-| DID Spec Extensions | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-spec-extensions |
-| Rust did:key Implementation | Code | [@tmarkovski](https://github.com/tmarkovski) | https://github.com/decentralized-identity/did-key.rs |
+| Name | Type | Lead(s) | Link(s) | Review |
+| ----------- | -------------- | ---------------- | ----------------------- | --------- |
+| Universal Resolver | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-resolver<br> https://github.com/decentralized-identity/universal-resolver-frontend<br> (various drivers) | (unknown) |
+| Universal Registrar | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/universal-registrar<br> https://github.com/decentralized-identity/universal-registrar-frontend<br> (various drivers) | (unknown) |
+| did-common-java | Code | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-common-java | (unknown) |
+| did-common-dotnet | Code | [@juanfranblanco](https://github.com/juanfranblanco), [@veikkoeeva](https://github.com/veikkoeeva) | https://github.com/decentralized-identity/did-common-dotnet | (unknown) |
+| did:peer Method | Specs | [@dhh1128](https://github.com/dhh1128) | https://github.com/decentralized-identity/peer-did-method-spec | (unknown) |
+| .well-known DID Configuration | Specs | [@csuwildcat](https://github.com/csuwildcat), [@OR13](https://github.com/OR13) | https://github.com/decentralized-identity/.well-known | (unknown) |
+| Secret Recovery Methods (Fuzzy Encryption, Horcrux) | Documentation | [@TomCJones](https://github.com/TomCJones), [@csuwildcat](https://github.com/csuwildcat), [@johncallahan](https://github.com/johncallahan) | https://github.com/decentralized-identity/secret-recovery-methods<br> https://github.com/decentralized-identity/fuzzy-encryption<br> https://github.com/decentralized-identity/horcrux | (unknown) |
+| JavaScript DID Resolver | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-resolver<br> https://github.com/decentralized-identity/ethr-did-resolver<br> https://github.com/decentralized-identity/web-did-resolver | (unknown) |
+| JavaScript DID JWT | Code | [@pelle](https://github.com/pelle), [@mirceanis](https://github.com/mirceanis) | https://github.com/decentralized-identity/did-jwt<br> https://github.com/decentralized-identity/did-jwt-vc | (unknown) |
+| JSON-LD Document Loader | Code | [@OR13](https://github.com/OR13) | https://github.com/decentralized-identity/jsonld-document-loader | (unknown) |
+| DID Spec Extensions | Specs | [@peacekeeper](https://github.com/peacekeeper) | https://github.com/decentralized-identity/did-spec-extensions | (unknown) |
+| Rust did:key Implementation | Code | [@tmarkovski](https://github.com/tmarkovski) | https://github.com/decentralized-identity/did-key.rs | (unknown) |
 
 Former Work Items:
 
